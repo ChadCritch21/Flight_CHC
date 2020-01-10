@@ -1,0 +1,11 @@
+C:\Users\chadc\source\repos\FlightConsoleApp\FlightConsoleApp\bin\Debug\netcoreapp3.1\FlightConsoleApp.exe
+C:\Users\chadc\source\repos\FlightConsoleApp\FlightConsoleApp\bin\Debug\netcoreapp3.1\FlightConsoleApp.deps.json
+C:\Users\chadc\source\repos\FlightConsoleApp\FlightConsoleApp\bin\Debug\netcoreapp3.1\FlightConsoleApp.runtimeconfig.json
+C:\Users\chadc\source\repos\FlightConsoleApp\FlightConsoleApp\bin\Debug\netcoreapp3.1\FlightConsoleApp.runtimeconfig.dev.json
+C:\Users\chadc\source\repos\FlightConsoleApp\FlightConsoleApp\bin\Debug\netcoreapp3.1\FlightConsoleApp.dll
+C:\Users\chadc\source\repos\FlightConsoleApp\FlightConsoleApp\bin\Debug\netcoreapp3.1\FlightConsoleApp.pdb
+C:\Users\chadc\source\repos\FlightConsoleApp\FlightConsoleApp\obj\Debug\netcoreapp3.1\FlightConsoleApp.csprojAssemblyReference.cache
+C:\Users\chadc\source\repos\FlightConsoleApp\FlightConsoleApp\obj\Debug\netcoreapp3.1\FlightConsoleApp.AssemblyInfoInputs.cache
+C:\Users\chadc\source\repos\FlightConsoleApp\FlightConsoleApp\obj\Debug\netcoreapp3.1\FlightConsoleApp.AssemblyInfo.cs
+C:\Users\chadc\source\repos\FlightConsoleApp\FlightConsoleApp\obj\Debug\netcoreapp3.1\FlightConsoleApp.dll
+C:\Users\chadc\source\repos\FlightConsoleApp\FlightConsoleApp\obj\Debug\netcoreapp3.1\FlightConsoleApp.pdb
